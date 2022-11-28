@@ -57,6 +57,13 @@ https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
 - kanawati975 
   - BL Touch adapter
     - [GitHub](https://github.com/kanawati975/Voron_Switchwire/tree/main/BL-Touch)
+- Treeific
+  - Z-stop - V2/Trident style nozzle endstop for E3/SW
+    -[GitHub](https://github.com/treeific/3D_Printer/tree/main/z-stop)
+  - Nozzle-scrub - based on decontaminator
+    - [GitHub](https://github.com/treeific/3D_Printer/tree/main/nozzle-scrub)
+  
+
 
 ## Partial Conversions
 - AfterBEARner
