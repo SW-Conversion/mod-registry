@@ -6,6 +6,8 @@ This is a listing of mods for converting ender 3-like printers or similar into a
   - [GitHub Rev 2](https://github.com/boubounokefalos/Ender_SW/tree/Rev.2)
   - [GitHub](https://github.com/boubounokefalos/Ender_SW)
 - Gizzle [Voron Users](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire)
+- Kanwati975
+  - [Github](https://github.com/kanawati975/Voron_Switchwire/tree/main/BL-Touch)
 - Triano
   - [Voron Users](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire)
   - [GitHub 2.0](https://github.com/walttriano/EnderWire-2.0)
@@ -14,6 +16,9 @@ This is a listing of mods for converting ender 3-like printers or similar into a
   - [VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ultrawaffles/Ender_3_to_SW)
   
 ## Accessory parts
+- Salveoo
+  - SW Magprobe
+    - [Github](https://github.com/salveoo/voronmods/tree/main/Switchwire%20Magprobe)
 - Steve's Enderwire parts
   - [Discord](https://discord.com/channels/460117602945990666/947303252372906014/1006709902149963836)
 - Strayr
@@ -24,6 +29,9 @@ This is a listing of mods for converting ender 3-like printers or similar into a
       - [Github](https://github.com/strayr/stealthburner_revo-cr)
     - Creality toolhead for AB-BN-30
       - [Github](https://github.com/strayr/voron-afterburner-ender3/tree/main/AA-BN-30_toolhead)
+- kanawati975 
+  - BL Touch adapter
+    - [GitHub](https://github.com/kanawati975/Voron_Switchwire/tree/main/BL-Touch)
 
 ## Partial Conversions
 - AfterBEARner
