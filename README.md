@@ -42,6 +42,9 @@ https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
     - [Github](https://github.com/strayr/Ender3_switchwire_fixes)
 
 ## Accessory parts
+- jlas1
+  - Klicky - A switchwire adaptation of the popular klicky probe
+    - [Github](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire)
 - Salveoo
   - SW Magprobe
     - A klicky style probe with a servo arm to present the probe to the toolhead.
