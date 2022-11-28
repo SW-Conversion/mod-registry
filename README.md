@@ -25,6 +25,9 @@ This is a listing of mods for converting ender 3-like printers or similar into a
     - [VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ultrawaffles/Ender_3_to_SW)
   
 ## Accessory parts
+- MakerSource
+  - Improved top idlers similar to [jtmal](https://github.com/jtrmal/VoronUsers/tree/yenda_switchwire/printer_mods/yenda/vsw_more_robust_belt_paths)'s mod for the original switchwire, thinner XZ tensioners, alternate deck extensions, electronics mounts.
+    - [GitHub](https://github.com/MakersSource/Voron-Mods/tree/main/Printer%20Mods/Ender%20Switchwire)
 - Salveoo
   - SW Magprobe
     - A klicky style probe with a servo arm to present the probe to the toolhead.
