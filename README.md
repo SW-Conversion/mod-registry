@@ -12,6 +12,9 @@ This is a listing of mods for converting ender 3-like printers or similar into a
 - Kanwati975
   - CR-10 Conversion
     - [Github](https://github.com/kanawati975/Voron_Switchwire/tree/main/BL-Touch)
+- Salveoo
+  - Artillery genius conversion
+    - [GitHub](https://github.com/salveoo/genius)
 - thomasfjen 
   - Combines Gizzle's Y axis for an original ender 3 and the DaRk_dOg frame
     - [GitHub](https://github.com/thomasfjen/enderwire_nonpro)
