@@ -53,6 +53,9 @@ https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
     - Creality toolhead for stealthburner
       - [VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/strayr/stealthburner_creality_toolhead)
       - [Github](https://github.com/strayr/stealthburner_creality_edition)
+  - Improved Z - X motor mounts
+    - based on yenda's improved belt paths for switchwire
+      - [Github](https://github.com/strayr/SWE3-motor-mounts)
     - Revo CR toolhead
       - [Github](https://github.com/strayr/stealthburner_revo-cr)
     - Creality toolhead for AB-BN-30
