@@ -1,6 +1,11 @@
 # mod-regisistry
 This is a listing of mods for converting ender 3-like printers or similar into a Voron Switchwire.
 
+## Documentation
+- RobotRogue
+  - Guide and BOM for DaRk_dOg based conversions
+    - [GitHub](https://github.com/RobotRogue/Enderwire_Docs)
+
 ## Complete Conversions
 - DaRk_dOg
   - Ender 3 Pro/V2 with full enclosure
