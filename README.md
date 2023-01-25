@@ -1,6 +1,8 @@
 # mod-regisistry
 This is a listing of mods for converting ender 3-like printers or similar into a Voron Switchwire.
 
+To get a mod added create an issue here or DM stray_r #2712 on discord.
+
 ## Documentation
 - RobotRogue
   - Guide and BOM for DaRk_dOg based conversions
@@ -42,9 +44,11 @@ https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
 - Steve's Enderwire parts
   - As featured on [SteveBuilds](https://www.youtube.com/playlist?list=PL0fUJbigELQPaEfkTRW6RnBHx94wKJTUv) youtube channel
     - [Discord](https://discord.com/channels/460117602945990666/947303252372906014/1006709902149963836)
+    - [GitHub](https://github.com/stvptrsn/Voron_Stuff/tree/main/Enderwire)
 - Strayr
   - Some alterations to original Triano that may have been addressed in DaRk_dOg rev2, has a Y-motor mount that allows up to a 48mm stepper to be used without requiring changes to the enclosure or fouling the Y carriage, one possibility is to use the creality extruder motor. 
     - [Github](https://github.com/strayr/Ender3_switchwire_fixes)
+  
 
 ## Accessory parts
 - jlas1
@@ -61,6 +65,10 @@ https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
   - Improved Z - X motor mounts
     - based on yenda's improved belt paths for switchwire
       - [Github](https://github.com/strayr/SWE3-motor-mounts)
+      - use with [MakerSource](https://github.com/MakersSource/Voron-Mods/tree/main/Printer%20Mods/Ender%20Switchwire)'s ZX top pulleys
+    - Improved XZ blocks
+      - based on yenda's improved belt paths for switchwire, ensure proper alignment of xz blocks on the gantry.
+      -[GitHub](https://github.com/strayr/Ender3_switchwire_fixes/tree/main/XZ-blocks)
     - Revo CR toolhead
       - [Github](https://github.com/strayr/stealthburner_revo-cr)
     - Creality toolhead for AB-BN-30
@@ -84,4 +92,4 @@ https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
   - Fits an afterburner or stealthburner compatible carriage to a stock ender 3 carriage, allowing a user to try out the toolhead/and extruder before going all in on the motion system.
     - [Github](https://github.com/strayr/voron-afterburner-ender3)
 
-  
+
