@@ -35,6 +35,9 @@ To get a mod added create an issue here or DM stray_r #2712 on discord.
     - [VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ultrawaffles/Ender_3_to_SW)
   
 ## Updates/mods to full conversions
+- clehn8ok
+  - orbiter toolhead setup for thomasfjen's enderwire-nonpro
+  - [GitHub](https://github.com/clehn8ok/enderwire)
 - geoffrey-young
   - adds auto-z, nozzle brush, aliexpres door puller and a stealthburner bowden to DaRk_dOg
 https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
