@@ -1,4 +1,4 @@
-# mod-regisistry
+# mod-registry
 This is a listing of mods for converting ender 3-like printers or similar into a Voron Switchwire.
 
 To get a mod added create an issue here or DM stray_r #2712 on discord. PLease read the [guidelines](registry_guidelines.md) for inclusion.
