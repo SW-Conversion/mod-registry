@@ -61,6 +61,10 @@ https://github.com/geoffrey-young/3D-Printing/tree/main/models/voron/enderwire
   - SW Magprobe
     - A klicky style probe with a servo arm to present the probe to the toolhead.
       - [Github](https://github.com/salveoo/voronmods/tree/main/Switchwire%20Magprobe)
+- Kruze17
+  - Magprobe HX
+    - An update to Salveoo's SW Magprobe
+      - [github](https://github.com/Kruze17/Magprobe-HX)
 - Strayr
     - Creality toolhead for stealthburner
       - [VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/strayr/stealthburner_creality_toolhead)
